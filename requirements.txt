@@ -6,4 +6,5 @@ matplotlib
 scikit-learn
 tensorflow
 joblib
+ml-dtypes
 
