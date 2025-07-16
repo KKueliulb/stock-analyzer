@@ -4,6 +4,6 @@ pandas
 numpy
 matplotlib
 scikit-learn
-tensorflow-cpu==2.19.0rc0
+tensorflow
 joblib
 
